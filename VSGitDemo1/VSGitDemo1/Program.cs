@@ -12,6 +12,7 @@ namespace VSGitDemo1
         {
           //edited in GitHub by Justus
           //ExtraAdditions by jUSTUS
+          //Some more by MeMyselfAndI in VS
         }
     }
 }
